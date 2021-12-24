@@ -1,2 +1,3 @@
-# FPS
-First Person Shooter game made in UE4
+# firstpersonshooter
+
+Developed with Unreal Engine 4
